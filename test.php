@@ -6,5 +6,5 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  
- echo "GIT10";
+ echo "GIT12";
 ?>
