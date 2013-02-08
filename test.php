@@ -6,5 +6,5 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  
- echo "GIT17";
+ echo "GIT18";
 ?>
